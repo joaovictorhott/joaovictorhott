@@ -63,7 +63,7 @@ Ideas and prototypes of educational apps and games focused on waste management a
 
 I believe learning is never finished. This GitHub is a **record of my growth**, experiments, mistakes, lessons learned, and projects connecting **engineering, data, and real-world impact**.
 
-> *“The future of engineering is interdisciplinary — and data is the bridge.”*
+> *“The future of engineering is interdisciplinary and data is the bridge.”*
 
 ---
 
