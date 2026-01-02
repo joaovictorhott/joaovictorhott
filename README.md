@@ -1,64 +1,75 @@
-# 👋 Olá, eu sou o João Victor
+# 👋 Hi, I’m João Victor
 
-Sou **engenheiro químico em formação**, com background em **Química Industrial**, atuando na interseção entre **processos industriais, dados e tecnologia**. Tenho interesse especial em **ciência de dados aplicada à indústria**, **qualidade**, **sustentabilidade** e **automação**.
+I’m a **Chemical Engineering student** with a background in **Industrial Chemistry**, working at the intersection of **industrial processes, data, and technology**. I have a strong interest in **data science applied to industry**, **quality**, **sustainability**, and **automation**.
 
-Meu objetivo profissional é usar **dados, programação e pensamento de engenharia** para melhorar processos, apoiar decisões técnicas e gerar impacto real no mundo industrial.
-
----
-
-## 🧠 Sobre mim
-
-- 🎓 Formação em **Química Industrial** e graduando em **Engenharia Química**
-- 📊 Experiência com **dados industriais**, séries temporais e indicadores operacionais
-- 🌱 Forte interesse em **sustentabilidade, gestão ambiental e eficiência de processos**
-- 💻 Apaixonado por tecnologia, programação e aprendizado contínuo
-- 🌍 Visão de carreira interdisciplinar: **engenharia + dados + computação**
+My professional goal is to use **data, programming, and engineering thinking** to improve processes, support technical decision-making, and create real industrial impact.
 
 ---
 
-## 🔧 Tecnologias & Ferramentas
+## 🧠 About Me
 
-### 📊 Dados & Programação
+- 🎓 Degree in **Industrial Chemistry** and currently studying **Chemical Engineering**
+- 📊 Experience with **industrial data**, time series, and operational indicators
+- 🌱 Strong interest in **sustainability, environmental management, and process efficiency**
+- 💻 Passionate about technology, programming, and continuous learning
+- 🌍 Interdisciplinary career vision: **engineering + data + computing**
+
+---
+
+## 🔧 Technologies & Tools
+
+### 📊 Data & Programming
 - Python (pandas, numpy, matplotlib)
-- R (análise de dados, séries temporais)
+- R (data analysis, time series)
 - SQL
 - Power BI
 
-### 🏭 Engenharia & Indústria
-- Análise e otimização de processos
-- Controle de qualidade e GMP
-- Caracterização de materiais
-- Indicadores industriais e operacionais
+### 🏭 Engineering & Industry
+- Process analysis and optimization
+- Quality control and GMP
+- Materials characterization
+- Industrial and operational KPIs
 
-### 🌱 Outros conhecimentos
-- Sustentabilidade e gestão ambiental
-- Análise de dados ambientais (qualidade do ar, CO, NO₂, CO₂)
-- Noções de automação e sistemas industriais
-
----
-
-## 📌 Projetos em destaque
-
-🔹 **Análise e Previsão da Qualidade do Ar**  
-Estudos com séries temporais em R e Python para análise e previsão de poluentes atmosféricos.
-
-🔹 **Dados Industriais & Eficiência Operacional**  
-Projetos focados em indicadores de processo, eficiência energética e apoio à tomada de decisão.
-
-🔹 **Educação & Sustentabilidade**  
-Ideias e protótipos de aplicativos e jogos educativos com foco em gestão de resíduos e uso consciente da água.
+### 🌱 Additional Knowledge
+- Sustainability and environmental management
+- Environmental data analysis (air quality, CO, NO₂, CO₂)
+- Basic knowledge of automation and industrial systems
 
 ---
 
-## 🚀 O que você vai encontrar neste GitHub
+## 📌 Featured Projects
 
-- 📂 Projetos de **análise de dados aplicados à engenharia**
-- 📈 Estudos com **séries temporais e dados ambientais**
-- 🧪 Aplicações de programação em **problemas químicos e industriais**
-- 📚 Repositórios de estudo, experimentação e aprendizado contínuo
+🔹 **Air Quality Analysis & Forecasting**  
+Time series studies in R and Python for analyzing and forecasting air pollutants.
+
+🔹 **Industrial Data & Operational Efficiency**  
+Projects focused on process KPIs, energy efficiency, and data-driven decision-making.
+
+🔹 **Education & Sustainability**  
+Ideas and prototypes of educational apps and games focused on waste management and water conservation.
 
 ---
 
-## 🌱 Em constante evolução
+## 🚀 What You’ll Find on This GitHub
 
-Acredito que aprender nunca é um estado final. Este GitHub é um **registro da minha evolução**, test
+- 📂 **Engineering-focused data analysis projects**
+- 📈 **Time series and environmental data studies**
+- 🧪 **Programming applied to chemical and industrial problems**
+- 📚 Learning, experimentation, and study repositories
+
+---
+
+## 🌱 Always Evolving
+
+I believe learning is never finished. This GitHub is a **record of my growth**, experiments, mistakes, lessons learned, and projects connecting **engineering, data, and real-world impact**.
+
+> *“The future of engineering is interdisciplinary — and data is the bridge.”*
+
+---
+
+## 📫 Let’s Connect
+
+- 💼 LinkedIn: https://www.linkedin.com/in/joaovictorhott/
+
+
+Feel free to explore the repositories, suggest improvements, or exchange ideas 🚀
