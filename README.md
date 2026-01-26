@@ -1,18 +1,27 @@
 # 👋 Hi, I’m João Victor
 
-I’m a **Chemical Engineering student** with a background in **Industrial Chemistry**, working at the intersection of **industrial processes, data, and technology**. I have a strong interest in **data science applied to industry**, **quality**, **sustainability**, and **automation**.
+I am a Chemical Engineering student with a background in Industrial Chemistry and hands-on experience in the steel industry, working at the intersection of industrial processes, data, and technology. I have experience supporting steelmaking and raw material processes, quality routines, and technical analysis in highly demanding industrial environments.
 
-My professional goal is to use **data, programming, and engineering thinking** to improve processes, support technical decision-making, and create real industrial impact.
+I am particularly interested in data-driven decision-making, process optimization, quality, sustainability, and industrial automation, applying programming and analytical thinking to real industrial challenges.
 
+My goal is to use engineering fundamentals, data analysis, and programming to improve processes, support technical decisions, and generate measurable industrial impact.
 ---
 
 ## 🧠 About Me
 
-- 🎓 Degree in **Industrial Chemistry** and currently studying **Chemical Engineering**
-- 📊 Experience with **industrial data**, time series, and operational indicators
-- 🌱 Strong interest in **sustainability, environmental management, and process efficiency**
-- 💻 Passionate about technology, programming, and continuous learning
-- 🌍 Interdisciplinary career vision: **engineering + data + computing**
+🎓 Degree in Industrial Chemistry | Currently studying Chemical Engineering
+
+🏭 Practical experience in the steel industry, including process support, raw material analysis, and quality routines
+
+📊 Experience with industrial data, time series, and operational indicators
+
+🔬 Background in geometallurgy, materials characterization, and process-related analysis
+
+🌱 Strong interest in sustainability, environmental management, and process efficiency
+
+💻 Passionate about technology, programming, and continuous learning
+
+🌍 Interdisciplinary mindset: engineering + data + computing
 
 ---
 
