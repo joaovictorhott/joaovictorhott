@@ -5,7 +5,7 @@ I am a Chemical Engineering student with a background in Industrial Chemistry an
 I am particularly interested in data-driven decision-making, process optimization, quality, sustainability, and industrial automation, applying programming and analytical thinking to real industrial challenges.
 
 My goal is to use engineering fundamentals, data analysis, and programming to improve processes, support technical decisions, and generate measurable industrial impact.
----
+
 
 ## 🧠 About Me
 
